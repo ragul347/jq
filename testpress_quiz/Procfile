@@ -1,1 +1,1 @@
-web: gunicorn testpress_quiz.wsgi
+web: gunicorn testpress_quiz.wsgi.py
